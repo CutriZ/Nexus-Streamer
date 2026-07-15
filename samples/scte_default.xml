@@ -1,0 +1,2021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="2026-07-14">
+	<channel id="ITALIANISSIMA">
+		<display-name lang="ita">ITALIANISSIMA</display-name>
+	</channel>
+	<programme start="2026-07-14T18:01:13.760+0200" stop="2026-07-14T18:05:06.840+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ELODIE</title>
+		<desc lang="ita">ELODIE</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">233</lenght>
+		<episode-num system="episode">DIMENTICARSI ALLE 7</episode-num>
+		<episode-num system="assetID">ELODIE-DIMENTICARSIALLE7</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:05:06.840+0200" stop="2026-07-14T18:05:58.320+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:05:58.320+0200" stop="2026-07-14T18:10:52.640+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADRIANO CELENTANO</title>
+		<desc lang="ita">ADRIANO CELENTANO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">294</lenght>
+		<episode-num system="episode">IL RAGAZZO DELLA VIA GLUK</episode-num>
+		<episode-num system="assetID">ADRIANOCELENTANO-ILRAGAZZODELLAVIAGLUK</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:10:52.640+0200" stop="2026-07-14T18:14:04.760+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FABRIZIO MORO</title>
+		<desc lang="ita">FABRIZIO MORO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">192</lenght>
+		<episode-num system="episode">PORTAMI VIA</episode-num>
+		<episode-num system="assetID">FABRIZIOMORO-PORTAMIVIA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:14:04.760+0200" stop="2026-07-14T18:14:56.240+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:14:56.240+0200" stop="2026-07-14T18:19:52.600+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MIA MARTINI</title>
+		<desc lang="ita">MIA MARTINI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">296</lenght>
+		<episode-num system="episode">ALMENO TU NELL&apos;UNIVERSO</episode-num>
+		<episode-num system="assetID">MIAMARTINI-ALMENOTUNELL&apos;UNIVERSO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:19:52.600+0200" stop="2026-07-14T18:22:55.480+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LA RAPPRESENTANTE DI LISTA</title>
+		<desc lang="ita">LA RAPPRESENTANTE DI LISTA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">182</lenght>
+		<episode-num system="episode">CIAO CIAO</episode-num>
+		<episode-num system="assetID">LARAPPRESENTANTEDILISTA-CIAOCIAO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:22:55.480+0200" stop="2026-07-14T18:23:46.960+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:23:46.960+0200" stop="2026-07-14T18:26:39.880+0200" channel="ITALIANISSIMA">
+		<title lang="ita">UMBERTO TOZZI</title>
+		<desc lang="ita">UMBERTO TOZZI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">172</lenght>
+		<episode-num system="episode">TU</episode-num>
+		<episode-num system="assetID">UMBERTOTOZZI-TU</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:26:39.880+0200" stop="2026-07-14T18:31:22.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">VASCO ROSSI</title>
+		<desc lang="ita">VASCO ROSSI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">282</lenght>
+		<episode-num system="episode">VOGLIO UNA VITA SPERICOLATA</episode-num>
+		<episode-num system="assetID">VASCOROSSI-VOGLIOUNAVITASPERICOLATA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:31:22.000+0200" stop="2026-07-14T18:32:13.480+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:32:13.480+0200" stop="2026-07-14T18:35:17.560+0200" channel="ITALIANISSIMA">
+		<title lang="ita">NICOLA DI BARI</title>
+		<desc lang="ita">NICOLA DI BARI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">184</lenght>
+		<episode-num system="episode">LA PRIMA COSA BELLA</episode-num>
+		<episode-num system="assetID">NICOLADIBARI-LAPRIMACOSABELLA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:35:17.560+0200" stop="2026-07-14T18:38:14.960+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MAHMOOD</title>
+		<desc lang="ita">MAHMOOD</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">177</lenght>
+		<episode-num system="episode">TUTA GOLD</episode-num>
+		<episode-num system="assetID">MAHMOOD-TUTAGOLD</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:38:14.960+0200" stop="2026-07-14T18:39:06.440+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:39:06.440+0200" stop="2026-07-14T18:43:18.320+0200" channel="ITALIANISSIMA">
+		<title lang="ita">POOH</title>
+		<desc lang="ita">POOH</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">251</lenght>
+		<episode-num system="episode">DIO DELLE CITTA&apos;</episode-num>
+		<episode-num system="assetID">POOH-DIODELLECITTA&apos;</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:43:18.320+0200" stop="2026-07-14T18:46:46.120+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ERMAL META - FABRIZIO MORO</title>
+		<desc lang="ita">ERMAL META - FABRIZIO MORO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">207</lenght>
+		<episode-num system="episode">NON MI AVETE FATTO NIENTE</episode-num>
+		<episode-num system="assetID">ERMALMETA_FABRIZIOMORO-NONMIAVETEFATTONIENTE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:46:46.120+0200" stop="2026-07-14T18:47:37.600+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:47:37.600+0200" stop="2026-07-14T18:51:21.480+0200" channel="ITALIANISSIMA">
+		<title lang="ita">NEK</title>
+		<desc lang="ita">NEK</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">223</lenght>
+		<episode-num system="episode">FATTI AVANTI AMORE</episode-num>
+		<episode-num system="assetID">NEK-FATTIAVANTIAMORE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:51:21.480+0200" stop="2026-07-14T18:54:58.320+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ARISA</title>
+		<desc lang="ita">ARISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">216</lenght>
+		<episode-num system="episode">CONTROVENTO</episode-num>
+		<episode-num system="assetID">ARISA-CONTROVENTO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:54:58.320+0200" stop="2026-07-14T18:55:49.800+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:55:49.800+0200" stop="2026-07-14T18:59:35.440+0200" channel="ITALIANISSIMA">
+		<title lang="ita">GIANLUCA GRIGNANI</title>
+		<desc lang="ita">GIANLUCA GRIGNANI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">225</lenght>
+		<episode-num system="episode">DESTINAZIONE PARADISO</episode-num>
+		<episode-num system="assetID">GIANLUCAGRIGNANI-DESTINAZIONEPARADISO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T18:59:35.440+0200" stop="2026-07-14T19:02:55.760+0200" channel="ITALIANISSIMA">
+		<title lang="ita">TOTO CUTUGNO</title>
+		<desc lang="ita">TOTO CUTUGNO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">200</lenght>
+		<episode-num system="episode">LASCIATEMI CANTARE</episode-num>
+		<episode-num system="assetID">TOTOCUTUGNO-LASCIATEMICANTARE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:02:55.760+0200" stop="2026-07-14T19:03:47.240+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:03:47.240+0200" stop="2026-07-14T19:07:32.360+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LAURA PAUSINI</title>
+		<desc lang="ita">LAURA PAUSINI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">225</lenght>
+		<episode-num system="episode">LA SOLITUDINE</episode-num>
+		<episode-num system="assetID">LAURAPAUSINI-LASOLITUDINE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:07:32.360+0200" stop="2026-07-14T19:11:39.520+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ROBERTO VECCHIONI</title>
+		<desc lang="ita">ROBERTO VECCHIONI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">247</lenght>
+		<episode-num system="episode">CHIAMAMI ANCORA AMORE</episode-num>
+		<episode-num system="assetID">ROBERTOVECCHIONI-CHIAMAMIANCORAAMORE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:11:39.520+0200" stop="2026-07-14T19:12:31.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:12:31.000+0200" stop="2026-07-14T19:15:18.680+0200" channel="ITALIANISSIMA">
+		<title lang="ita">NILLA PIZZI</title>
+		<desc lang="ita">NILLA PIZZI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">167</lenght>
+		<episode-num system="episode">GRAZIE DEI FIORI</episode-num>
+		<episode-num system="assetID">NILLAPIZZI-GRAZIEDEIFIORI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:15:18.680+0200" stop="2026-07-14T19:19:00.920+0200" channel="ITALIANISSIMA">
+		<title lang="ita">DOMENICO MODUGNO</title>
+		<desc lang="ita">DOMENICO MODUGNO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">222</lenght>
+		<episode-num system="episode">IN DIO COME TI AMO</episode-num>
+		<episode-num system="assetID">DOMENICOMODUGNO-INDIOCOMETIAMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:19:00.920+0200" stop="2026-07-14T19:19:52.400+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:19:52.400+0200" stop="2026-07-14T19:23:32.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">PATTY PRAVO</title>
+		<desc lang="ita">PATTY PRAVO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">219</lenght>
+		<episode-num system="episode">OPERA</episode-num>
+		<episode-num system="assetID">PATTYPRAVO-OPERA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:23:32.000+0200" stop="2026-07-14T19:27:34.680+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ALEX BRITTI</title>
+		<desc lang="ita">ALEX BRITTI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">242</lenght>
+		<episode-num system="episode">OGGI SONO IO</episode-num>
+		<episode-num system="assetID">ALEXBRITTI-OGGISONOIO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:27:34.680+0200" stop="2026-07-14T19:28:26.160+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:28:26.160+0200" stop="2026-07-14T19:32:22.400+0200" channel="ITALIANISSIMA">
+		<title lang="ita">DANIELE SILVESTRI</title>
+		<desc lang="ita">DANIELE SILVESTRI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">236</lenght>
+		<episode-num system="episode">SALIRO&apos;</episode-num>
+		<episode-num system="assetID">DANIELESILVESTRI-SALIRO&apos;</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:32:22.400+0200" stop="2026-07-14T19:35:43.560+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FRANCESCO RENGA</title>
+		<desc lang="ita">FRANCESCO RENGA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">201</lenght>
+		<episode-num system="episode">ANGELO</episode-num>
+		<episode-num system="assetID">FRANCESCORENGA-ANGELO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:35:43.560+0200" stop="2026-07-14T19:36:35.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:36:35.040+0200" stop="2026-07-14T19:39:50.880+0200" channel="ITALIANISSIMA">
+		<title lang="ita">OLLY</title>
+		<desc lang="ita">OLLY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">195</lenght>
+		<episode-num system="episode">BALORDA NOSTALGIA</episode-num>
+		<episode-num system="assetID">OLLY-BALORDANOSTALGIA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:39:50.880+0200" stop="2026-07-14T19:42:54.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">DOMENICOMODUGNO</title>
+		<desc lang="ita">DOMENICOMODUGNO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">183</lenght>
+		<episode-num system="episode">PIOVE</episode-num>
+		<episode-num system="assetID">DOMENICOMODUGNO-PIOVE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:42:54.000+0200" stop="2026-07-14T19:43:45.480+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:43:45.480+0200" stop="2026-07-14T19:47:21.280+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ANNALISA</title>
+		<desc lang="ita">ANNALISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">215</lenght>
+		<episode-num system="episode">SINCERAMENTE</episode-num>
+		<episode-num system="assetID">ANNALISA-SINCERAMENTE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:47:21.280+0200" stop="2026-07-14T19:50:54.960+0200" channel="ITALIANISSIMA">
+		<title lang="ita">GIORGIA</title>
+		<desc lang="ita">GIORGIA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">213</lenght>
+		<episode-num system="episode">LA CURA</episode-num>
+		<episode-num system="assetID">GIORGIA-LACURA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:50:54.960+0200" stop="2026-07-14T19:51:46.440+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:51:46.440+0200" stop="2026-07-14T19:55:34.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">SIMONE CRISTICCHI</title>
+		<desc lang="ita">SIMONE CRISTICCHI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">227</lenght>
+		<episode-num system="episode">TI REGALERO&apos; UNA ROSA</episode-num>
+		<episode-num system="assetID">SIMONECRISTICCHI-TIREGALERO&apos;UNAROSA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:55:34.000+0200" stop="2026-07-14T19:58:28.320+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FULMINACCI</title>
+		<desc lang="ita">FULMINACCI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">174</lenght>
+		<episode-num system="episode">STUPIDA SFORTUNA</episode-num>
+		<episode-num system="assetID">FULMINACCI-STUPIDASFORTUNA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:58:28.320+0200" stop="2026-07-14T19:59:19.800+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T19:59:19.800+0200" stop="2026-07-14T20:02:32.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">COMACOSE</title>
+		<desc lang="ita">COMACOSE</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">192</lenght>
+		<episode-num system="episode">CUORICINI</episode-num>
+		<episode-num system="assetID">COMACOSE-CUORICINI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:02:32.000+0200" stop="2026-07-14T20:06:25.680+0200" channel="ITALIANISSIMA">
+		<title lang="ita">JALISSE</title>
+		<desc lang="ita">JALISSE</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">233</lenght>
+		<episode-num system="episode">FIUMI DI PAROLE</episode-num>
+		<episode-num system="assetID">JALISSE-FIUMIDIPAROLE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:06:25.680+0200" stop="2026-07-14T20:07:17.160+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:07:17.160+0200" stop="2026-07-14T20:11:29.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">POOH</title>
+		<desc lang="ita">POOH</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">251</lenght>
+		<episode-num system="episode">DIO DELLE CITTA&apos;</episode-num>
+		<episode-num system="assetID">POOH-DIODELLECITTA&apos;</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:11:29.040+0200" stop="2026-07-14T20:15:32.400+0200" channel="ITALIANISSIMA">
+		<title lang="ita">EROS RAMAZZOTTI</title>
+		<desc lang="ita">EROS RAMAZZOTTI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">243</lenght>
+		<episode-num system="episode">TERRA PROMESSA</episode-num>
+		<episode-num system="assetID">EROSRAMAZZOTTI-TERRAPROMESSA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:15:32.400+0200" stop="2026-07-14T20:16:23.880+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:16:23.880+0200" stop="2026-07-14T20:20:00.640+0200" channel="ITALIANISSIMA">
+		<title lang="ita">GAIA</title>
+		<desc lang="ita">GAIA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">216</lenght>
+		<episode-num system="episode">CHIAMO IO CHIAMI TU</episode-num>
+		<episode-num system="assetID">GAIA-CHIAMOIOCHIAMITU</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:20:00.640+0200" stop="2026-07-14T20:23:51.240+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ELISA</title>
+		<desc lang="ita">ELISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">230</lenght>
+		<episode-num system="episode">O FORSE SEI TU</episode-num>
+		<episode-num system="assetID">ELISA-OFORSESEITU</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:23:51.240+0200" stop="2026-07-14T20:24:42.720+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:24:42.720+0200" stop="2026-07-14T20:27:37.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FULMINACCI</title>
+		<desc lang="ita">FULMINACCI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">174</lenght>
+		<episode-num system="episode">STUPIDA SFORTUNA</episode-num>
+		<episode-num system="assetID">FULMINACCI-STUPIDASFORTUNA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:27:37.040+0200" stop="2026-07-14T20:31:44.320+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FRANCESCO RENGA</title>
+		<desc lang="ita">FRANCESCO RENGA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">247</lenght>
+		<episode-num system="episode">IL MEGLIO DI ME</episode-num>
+		<episode-num system="assetID">FRANCESCORENGA-ILMEGLIODIME</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:31:44.320+0200" stop="2026-07-14T20:32:35.800+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:32:35.800+0200" stop="2026-07-14T20:37:17.920+0200" channel="ITALIANISSIMA">
+		<title lang="ita">VASCO ROSSI</title>
+		<desc lang="ita">VASCO ROSSI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">282</lenght>
+		<episode-num system="episode">VOGLIO UNA VITA SPERICOLATA</episode-num>
+		<episode-num system="assetID">VASCOROSSI-VOGLIOUNAVITASPERICOLATA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:37:17.920+0200" stop="2026-07-14T20:40:32.640+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MAHMOOD</title>
+		<desc lang="ita">MAHMOOD</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">194</lenght>
+		<episode-num system="episode">SOLDI</episode-num>
+		<episode-num system="assetID">MAHMOOD-SOLDI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:40:32.640+0200" stop="2026-07-14T20:41:24.120+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:41:24.120+0200" stop="2026-07-14T20:44:57.800+0200" channel="ITALIANISSIMA">
+		<title lang="ita">GIORGIA</title>
+		<desc lang="ita">GIORGIA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">213</lenght>
+		<episode-num system="episode">LA CURA</episode-num>
+		<episode-num system="assetID">GIORGIA-LACURA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:44:57.800+0200" stop="2026-07-14T20:48:34.600+0200" channel="ITALIANISSIMA">
+		<title lang="ita">DIODATO</title>
+		<desc lang="ita">DIODATO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">216</lenght>
+		<episode-num system="episode">FAI RUMORE</episode-num>
+		<episode-num system="assetID">DIODATO-FAIRUMORE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:48:34.600+0200" stop="2026-07-14T20:49:26.080+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:49:26.080+0200" stop="2026-07-14T20:53:12.640+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LUCHE&apos;</title>
+		<desc lang="ita">LUCHE&apos;</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">226</lenght>
+		<episode-num system="episode">LABIRINTO</episode-num>
+		<episode-num system="assetID">LUCHE&apos;-LABIRINTO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:53:12.640+0200" stop="2026-07-14T20:56:44.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FRANCESCO GABBANI</title>
+		<desc lang="ita">FRANCESCO GABBANI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">211</lenght>
+		<episode-num system="episode">VICEVERSA</episode-num>
+		<episode-num system="assetID">FRANCESCOGABBANI-VICEVERSA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:56:44.040+0200" stop="2026-07-14T20:57:35.520+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T20:57:35.520+0200" stop="2026-07-14T21:01:52.240+0200" channel="ITALIANISSIMA">
+		<title lang="ita">GIORGIA</title>
+		<desc lang="ita">GIORGIA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">256</lenght>
+		<episode-num system="episode">IL SOLE D&apos;AZZURRO</episode-num>
+		<episode-num system="assetID">GIORGIA-ILSOLED&apos;AZZURRO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:01:52.240+0200" stop="2026-07-14T21:05:26.360+0200" channel="ITALIANISSIMA">
+		<title lang="ita">PINGUINI TATTICI NUCLEARI</title>
+		<desc lang="ita">PINGUINI TATTICI NUCLEARI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">214</lenght>
+		<episode-num system="episode">RINGO STARR</episode-num>
+		<episode-num system="assetID">PINGUINITATTICINUCLEARI-RINGOSTARR</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:05:26.360+0200" stop="2026-07-14T21:06:17.840+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:06:17.840+0200" stop="2026-07-14T21:09:21.920+0200" channel="ITALIANISSIMA">
+		<title lang="ita">NICOLA DI BARI</title>
+		<desc lang="ita">NICOLA DI BARI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">184</lenght>
+		<episode-num system="episode">LA PRIMA COSA BELLA</episode-num>
+		<episode-num system="assetID">NICOLADIBARI-LAPRIMACOSABELLA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:09:21.920+0200" stop="2026-07-14T21:13:24.600+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ALEX BRITTI</title>
+		<desc lang="ita">ALEX BRITTI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">242</lenght>
+		<episode-num system="episode">OGGI SONO IO</episode-num>
+		<episode-num system="assetID">ALEXBRITTI-OGGISONOIO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:13:24.600+0200" stop="2026-07-14T21:14:16.080+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:14:16.080+0200" stop="2026-07-14T21:17:34.360+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MAHMOOD - BLANCO</title>
+		<desc lang="ita">MAHMOOD - BLANCO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">198</lenght>
+		<episode-num system="episode">BRIVIDI</episode-num>
+		<episode-num system="assetID">MAHMOOD_BLANCO-BRIVIDI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:17:34.360+0200" stop="2026-07-14T21:21:19.480+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LAURA PAUSINI</title>
+		<desc lang="ita">LAURA PAUSINI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">225</lenght>
+		<episode-num system="episode">LA SOLITUDINE</episode-num>
+		<episode-num system="assetID">LAURAPAUSINI-LASOLITUDINE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:21:19.480+0200" stop="2026-07-14T21:22:10.960+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:22:10.960+0200" stop="2026-07-14T21:26:38.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LEVANTE</title>
+		<desc lang="ita">LEVANTE</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">267</lenght>
+		<episode-num system="episode">SEI TU</episode-num>
+		<episode-num system="assetID">LEVANTE-SEITU</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:26:38.040+0200" stop="2026-07-14T21:30:45.200+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ROBERTO VECCHIONI</title>
+		<desc lang="ita">ROBERTO VECCHIONI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">247</lenght>
+		<episode-num system="episode">CHIAMAMI ANCORA AMORE</episode-num>
+		<episode-num system="assetID">ROBERTOVECCHIONI-CHIAMAMIANCORAAMORE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:30:45.200+0200" stop="2026-07-14T21:31:36.680+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:31:36.680+0200" stop="2026-07-14T21:33:51.840+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADRIANO CELENTANO</title>
+		<desc lang="ita">ADRIANO CELENTANO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">135</lenght>
+		<episode-num system="episode">24000 BACI</episode-num>
+		<episode-num system="assetID">ADRIANOCELENTANO-24000BACI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:33:51.840+0200" stop="2026-07-14T21:37:31.440+0200" channel="ITALIANISSIMA">
+		<title lang="ita">PATTY PRAVO</title>
+		<desc lang="ita">PATTY PRAVO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">219</lenght>
+		<episode-num system="episode">OPERA</episode-num>
+		<episode-num system="assetID">PATTYPRAVO-OPERA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:37:31.440+0200" stop="2026-07-14T21:38:22.920+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:38:22.920+0200" stop="2026-07-14T21:42:35.400+0200" channel="ITALIANISSIMA">
+		<title lang="ita">SUBSONICA</title>
+		<desc lang="ita">SUBSONICA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">252</lenght>
+		<episode-num system="episode">TUTTI I MIEI SBAGLI</episode-num>
+		<episode-num system="assetID">SUBSONICA-TUTTIIMIEISBAGLI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:42:35.400+0200" stop="2026-07-14T21:46:40.920+0200" channel="ITALIANISSIMA">
+		<title lang="ita">GIORGIA</title>
+		<desc lang="ita">GIORGIA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">245</lenght>
+		<episode-num system="episode">COME SAPREI</episode-num>
+		<episode-num system="assetID">GIORGIA-COMESAPREI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:46:40.920+0200" stop="2026-07-14T21:47:32.400+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:47:32.400+0200" stop="2026-07-14T21:50:35.520+0200" channel="ITALIANISSIMA">
+		<title lang="ita">DOMENICOMODUGNO</title>
+		<desc lang="ita">DOMENICOMODUGNO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">183</lenght>
+		<episode-num system="episode">PIOVE</episode-num>
+		<episode-num system="assetID">DOMENICOMODUGNO-PIOVE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:50:35.520+0200" stop="2026-07-14T21:54:19.400+0200" channel="ITALIANISSIMA">
+		<title lang="ita">NEK</title>
+		<desc lang="ita">NEK</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">223</lenght>
+		<episode-num system="episode">FATTI AVANTI AMORE</episode-num>
+		<episode-num system="assetID">NEK-FATTIAVANTIAMORE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:54:19.400+0200" stop="2026-07-14T21:55:10.880+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:55:10.880+0200" stop="2026-07-14T21:58:58.440+0200" channel="ITALIANISSIMA">
+		<title lang="ita">SIMONE CRISTICCHI</title>
+		<desc lang="ita">SIMONE CRISTICCHI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">227</lenght>
+		<episode-num system="episode">TI REGALERO&apos; UNA ROSA</episode-num>
+		<episode-num system="assetID">SIMONECRISTICCHI-TIREGALERO&apos;UNAROSA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T21:58:58.440+0200" stop="2026-07-14T22:02:10.560+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FABRIZIO MORO</title>
+		<desc lang="ita">FABRIZIO MORO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">192</lenght>
+		<episode-num system="episode">PORTAMI VIA</episode-num>
+		<episode-num system="assetID">FABRIZIOMORO-PORTAMIVIA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:02:10.560+0200" stop="2026-07-14T22:03:02.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:03:02.040+0200" stop="2026-07-14T22:07:05.080+0200" channel="ITALIANISSIMA">
+		<title lang="ita">BRUNO RISAS</title>
+		<desc lang="ita">BRUNO RISAS</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">243</lenght>
+		<episode-num system="episode">L&apos;ALBERO DELLE NOCI</episode-num>
+		<episode-num system="assetID">BRUNORISAS-L&apos;ALBERODELLENOCI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:07:05.080+0200" stop="2026-07-14T22:10:24.920+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FRANCESCO GABBANI</title>
+		<desc lang="ita">FRANCESCO GABBANI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">199</lenght>
+		<episode-num system="episode">AMEN</episode-num>
+		<episode-num system="assetID">FRANCESCOGABBANI-AMEN</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:10:24.920+0200" stop="2026-07-14T22:11:16.400+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:11:16.400+0200" stop="2026-07-14T22:14:47.720+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LAZZA</title>
+		<desc lang="ita">LAZZA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">211</lenght>
+		<episode-num system="episode">CENERE</episode-num>
+		<episode-num system="assetID">LAZZA-CENERE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:14:47.720+0200" stop="2026-07-14T22:17:53.840+0200" channel="ITALIANISSIMA">
+		<title lang="ita">RINO GAETANO</title>
+		<desc lang="ita">RINO GAETANO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">186</lenght>
+		<episode-num system="episode">GIANNA</episode-num>
+		<episode-num system="assetID">RINOGAETANO-GIANNA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:17:53.840+0200" stop="2026-07-14T22:18:45.320+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:18:45.320+0200" stop="2026-07-14T22:22:51.080+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LAURA PAUSINI</title>
+		<desc lang="ita">LAURA PAUSINI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">245</lenght>
+		<episode-num system="episode">STRANI AMORI</episode-num>
+		<episode-num system="assetID">LAURAPAUSINI-STRANIAMORI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:22:51.080+0200" stop="2026-07-14T22:26:11.520+0200" channel="ITALIANISSIMA">
+		<title lang="ita">DONATELLA RETTORE</title>
+		<desc lang="ita">DONATELLA RETTORE</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">200</lenght>
+		<episode-num system="episode">SPLENDIDO SPLENDENTE</episode-num>
+		<episode-num system="assetID">DONATELLARETTORE-SPLENDIDOSPLENDENTE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:26:11.520+0200" stop="2026-07-14T22:27:03.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:27:03.000+0200" stop="2026-07-14T22:31:59.360+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MIA MARTINI</title>
+		<desc lang="ita">MIA MARTINI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">296</lenght>
+		<episode-num system="episode">ALMENO TU NELL&apos;UNIVERSO</episode-num>
+		<episode-num system="assetID">MIAMARTINI-ALMENOTUNELL&apos;UNIVERSO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:31:59.360+0200" stop="2026-07-14T22:35:22.920+0200" channel="ITALIANISSIMA">
+		<title lang="ita">JOSE FELICIANO</title>
+		<desc lang="ita">JOSE FELICIANO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">203</lenght>
+		<episode-num system="episode">CHE SARA&apos;</episode-num>
+		<episode-num system="assetID">JOSEFELICIANO-CHESARA&apos;</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:35:22.920+0200" stop="2026-07-14T22:36:14.400+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:36:14.400+0200" stop="2026-07-14T22:39:50.200+0200" channel="ITALIANISSIMA">
+		<title lang="ita">IRAMA</title>
+		<desc lang="ita">IRAMA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">215</lenght>
+		<episode-num system="episode">LENTAMENTE</episode-num>
+		<episode-num system="assetID">IRAMA-LENTAMENTE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:39:50.200+0200" stop="2026-07-14T22:43:03.360+0200" channel="ITALIANISSIMA">
+		<title lang="ita">CIGLIOLA CINGUETTI</title>
+		<desc lang="ita">CIGLIOLA CINGUETTI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">193</lenght>
+		<episode-num system="episode">NON HO L&apos;ETA</episode-num>
+		<episode-num system="assetID">CIGLIOLACINGUETTI-NONHOL&apos;ETA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:43:03.360+0200" stop="2026-07-14T22:43:54.840+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:43:54.840+0200" stop="2026-07-14T22:47:32.440+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FRANCESCO GABBANI</title>
+		<desc lang="ita">FRANCESCO GABBANI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">217</lenght>
+		<episode-num system="episode">OCCIDENTALIS&apos; KRAMA</episode-num>
+		<episode-num system="assetID">FRANCESCOGABBANI-OCCIDENTALIS&apos;KRAMA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:47:32.440+0200" stop="2026-07-14T22:51:00.240+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ERMAL META - FABRIZIO MORO</title>
+		<desc lang="ita">ERMAL META - FABRIZIO MORO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">207</lenght>
+		<episode-num system="episode">NON MI AVETE FATTO NIENTE</episode-num>
+		<episode-num system="assetID">ERMALMETA_FABRIZIOMORO-NONMIAVETEFATTONIENTE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:51:00.240+0200" stop="2026-07-14T22:51:51.720+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:51:51.720+0200" stop="2026-07-14T22:55:59.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">DOMENICOMODUGNO</title>
+		<desc lang="ita">DOMENICOMODUGNO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">247</lenght>
+		<episode-num system="episode">NEL BLU DIPINTO DI BLU</episode-num>
+		<episode-num system="assetID">DOMENICOMODUGNO-NELBLUDIPINTODIBLU</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:55:59.000+0200" stop="2026-07-14T22:58:46.680+0200" channel="ITALIANISSIMA">
+		<title lang="ita">NILLA PIZZI</title>
+		<desc lang="ita">NILLA PIZZI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">167</lenght>
+		<episode-num system="episode">GRAZIE DEI FIORI</episode-num>
+		<episode-num system="assetID">NILLAPIZZI-GRAZIEDEIFIORI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:58:46.680+0200" stop="2026-07-14T22:59:38.160+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T22:59:38.160+0200" stop="2026-07-14T23:03:48.840+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MASSIMO RANIERI</title>
+		<desc lang="ita">MASSIMO RANIERI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">250</lenght>
+		<episode-num system="episode">PERDERE L&apos;AMORE</episode-num>
+		<episode-num system="assetID">MASSIMORANIERI-PERDEREL&apos;AMORE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:03:48.840+0200" stop="2026-07-14T23:08:19.720+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LUCIODALLA</title>
+		<desc lang="ita">LUCIODALLA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">270</lenght>
+		<episode-num system="episode">4 MARZO 1943</episode-num>
+		<episode-num system="assetID">LUCIODALLA-4MARZO1943</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:08:19.720+0200" stop="2026-07-14T23:09:11.200+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:09:11.200+0200" stop="2026-07-14T23:13:07.440+0200" channel="ITALIANISSIMA">
+		<title lang="ita">DANIELE SILVESTRI</title>
+		<desc lang="ita">DANIELE SILVESTRI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">236</lenght>
+		<episode-num system="episode">SALIRO&apos;</episode-num>
+		<episode-num system="assetID">DANIELESILVESTRI-SALIRO&apos;</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:13:07.440+0200" stop="2026-07-14T23:16:35.800+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MADAME</title>
+		<desc lang="ita">MADAME</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">208</lenght>
+		<episode-num system="episode">VOCE</episode-num>
+		<episode-num system="assetID">MADAME-VOCE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:16:35.800+0200" stop="2026-07-14T23:17:27.280+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:17:27.280+0200" stop="2026-07-14T23:20:00.080+0200" channel="ITALIANISSIMA">
+		<title lang="ita">NADA</title>
+		<desc lang="ita">NADA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">152</lenght>
+		<episode-num system="episode">MA CHE FREDDO FA</episode-num>
+		<episode-num system="assetID">NADA-MACHEFREDDOFA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:20:00.080+0200" stop="2026-07-14T23:22:53.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">UMBERTO TOZZI</title>
+		<desc lang="ita">UMBERTO TOZZI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">172</lenght>
+		<episode-num system="episode">TU</episode-num>
+		<episode-num system="assetID">UMBERTOTOZZI-TU</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:22:53.000+0200" stop="2026-07-14T23:23:44.480+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:23:44.480+0200" stop="2026-07-14T23:27:05.240+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ARISA</title>
+		<desc lang="ita">ARISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">200</lenght>
+		<episode-num system="episode">SINCERITA&apos;</episode-num>
+		<episode-num system="assetID">ARISA-SINCERITA&apos;</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-14T23:27:05.240+0200" stop="2026-07-15T05:53:28.720+0200" channel="ITALIANISSIMA">
+		<title lang="ita">TANANAI</title>
+		<desc lang="ita">TANANAI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">23183</lenght>
+		<episode-num system="episode">TANGO</episode-num>
+		<episode-num system="assetID">TANANAI-TANGO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T05:53:28.720+0200" stop="2026-07-15T05:54:20.200+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T05:54:20.200+0200" stop="2026-07-15T05:57:38.800+0200" channel="ITALIANISSIMA">
+		<title lang="ita">IRAMA</title>
+		<desc lang="ita">IRAMA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">198</lenght>
+		<episode-num system="episode">TU NO</episode-num>
+		<episode-num system="assetID">IRAMA-TUNO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T05:57:38.800+0200" stop="2026-07-15T06:01:07.680+0200" channel="ITALIANISSIMA">
+		<title lang="ita">INCOSCIENTI GIOVANI</title>
+		<desc lang="ita">INCOSCIENTI GIOVANI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">208</lenght>
+		<episode-num system="episode">ACHILLE LAURO</episode-num>
+		<episode-num system="assetID">ACHILLELAURO-INCOSCIENTIGIOVANI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:01:07.680+0200" stop="2026-07-15T06:01:59.160+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:01:59.160+0200" stop="2026-07-15T06:06:06.840+0200" channel="ITALIANISSIMA">
+		<title lang="ita">I CUGINI DI CAMPAGNA</title>
+		<desc lang="ita">I CUGINI DI CAMPAGNA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">247</lenght>
+		<episode-num system="episode">ANIMA MIA</episode-num>
+		<episode-num system="assetID">ICUGINIDICAMPAGNA-ANIMAMIA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:06:06.840+0200" stop="2026-07-15T06:10:09.760+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ANTONELLO VENDITTI</title>
+		<desc lang="ita">ANTONELLO VENDITTI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">242</lenght>
+		<episode-num system="episode">CI VORREBBE UN AMICO</episode-num>
+		<episode-num system="assetID">ANTONELLOVENDITTI-CIVORREBBEUNAMICO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:10:09.760+0200" stop="2026-07-15T06:11:01.240+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:11:01.240+0200" stop="2026-07-15T06:14:37.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ANNALISA</title>
+		<desc lang="ita">ANNALISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">215</lenght>
+		<episode-num system="episode">SINCERAMENTE</episode-num>
+		<episode-num system="assetID">ANNALISA-SINCERAMENTE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:14:37.040+0200" stop="2026-07-15T06:18:07.840+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LORETTA GOGGI</title>
+		<desc lang="ita">LORETTA GOGGI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">210</lenght>
+		<episode-num system="episode">MALEDETTA PRIMAVERA</episode-num>
+		<episode-num system="assetID">LORETTAGOGGI-MALEDETTAPRIMAVERA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:18:07.840+0200" stop="2026-07-15T06:18:59.320+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:18:59.320+0200" stop="2026-07-15T06:22:59.680+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MATIA BAZAR</title>
+		<desc lang="ita">MATIA BAZAR</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">240</lenght>
+		<episode-num system="episode">TI SENTO</episode-num>
+		<episode-num system="assetID">MATIABAZAR-TISENTO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:22:59.680+0200" stop="2026-07-15T06:26:36.520+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ARISA</title>
+		<desc lang="ita">ARISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">216</lenght>
+		<episode-num system="episode">CONTROVENTO</episode-num>
+		<episode-num system="assetID">ARISA-CONTROVENTO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:26:36.520+0200" stop="2026-07-15T06:27:28.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:27:28.000+0200" stop="2026-07-15T06:31:13.640+0200" channel="ITALIANISSIMA">
+		<title lang="ita">GIANLUCA GRIGNANI</title>
+		<desc lang="ita">GIANLUCA GRIGNANI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">225</lenght>
+		<episode-num system="episode">DESTINAZIONE PARADISO</episode-num>
+		<episode-num system="assetID">GIANLUCAGRIGNANI-DESTINAZIONEPARADISO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:31:13.640+0200" stop="2026-07-15T06:34:46.120+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MARCELLA BELLA</title>
+		<desc lang="ita">MARCELLA BELLA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">212</lenght>
+		<episode-num system="episode">MONTAGNE VERDI</episode-num>
+		<episode-num system="assetID">MARCELLABELLA-MONTAGNEVERDI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:34:46.120+0200" stop="2026-07-15T06:35:37.600+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:35:37.600+0200" stop="2026-07-15T06:39:21.960+0200" channel="ITALIANISSIMA">
+		<title lang="ita">IL VOLO</title>
+		<desc lang="ita">IL VOLO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">224</lenght>
+		<episode-num system="episode">GRANDE AMORE</episode-num>
+		<episode-num system="assetID">ILVOLO-GRANDEAMORE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:39:21.960+0200" stop="2026-07-15T06:43:21.320+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ARISA</title>
+		<desc lang="ita">ARISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">239</lenght>
+		<episode-num system="episode">LA NOTTE</episode-num>
+		<episode-num system="assetID">ARISA-LANOTTE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:43:21.320+0200" stop="2026-07-15T06:44:12.800+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:44:12.800+0200" stop="2026-07-15T06:47:44.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ARISA</title>
+		<desc lang="ita">ARISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">211</lenght>
+		<episode-num system="episode">MAGICA FAVOLA</episode-num>
+		<episode-num system="assetID">ARISA-MAGICAFAVOLA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:47:44.040+0200" stop="2026-07-15T06:52:08.520+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ELISA</title>
+		<desc lang="ita">ELISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">264</lenght>
+		<episode-num system="episode">LUCE</episode-num>
+		<episode-num system="assetID">ELISA-LUCE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:52:08.520+0200" stop="2026-07-15T06:53:00.000+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:53:00.000+0200" stop="2026-07-15T06:56:06.800+0200" channel="ITALIANISSIMA">
+		<title lang="ita">VASCO ROSSI</title>
+		<desc lang="ita">VASCO ROSSI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">186</lenght>
+		<episode-num system="episode">VADO AL MASSIMO</episode-num>
+		<episode-num system="assetID">VASCOROSSI-VADOALMASSIMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:56:06.800+0200" stop="2026-07-15T06:59:49.040+0200" channel="ITALIANISSIMA">
+		<title lang="ita">FRANCESCA MICHELIN - FEDEZ</title>
+		<desc lang="ita">FRANCESCA MICHELIN - FEDEZ</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">222</lenght>
+		<episode-num system="episode">CHIAMAMI PER NOME</episode-num>
+		<episode-num system="assetID">FRANCESCAMICHELIN_FEDEZ-CHIAMAMIPERNOME</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T06:59:49.040+0200" stop="2026-07-15T07:00:40.520+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:00:40.520+0200" stop="2026-07-15T07:04:30.680+0200" channel="ITALIANISSIMA">
+		<title lang="ita">MINA</title>
+		<desc lang="ita">MINA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">230</lenght>
+		<episode-num system="episode">GRANDE,GRANDE,GRANDE</episode-num>
+		<episode-num system="assetID">MINA-GRANDE,GRANDE,GRANDE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:04:30.680+0200" stop="2026-07-15T07:08:02.960+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ANNALISA</title>
+		<desc lang="ita">ANNALISA</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">212</lenght>
+		<episode-num system="episode">UNA FINESTRA TRA LE STELLE</episode-num>
+		<episode-num system="assetID">ANNALISA-UNAFINESTRATRALESTELLE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:08:02.960+0200" stop="2026-07-15T07:08:54.440+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:08:54.440+0200" stop="2026-07-15T07:12:18.760+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ORNELLA VANONI</title>
+		<desc lang="ita">ORNELLA VANONI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">204</lenght>
+		<episode-num system="episode">LA MUSICA E&apos; FINITA</episode-num>
+		<episode-num system="assetID">ORNELLAVANONI-LAMUSICAE&apos;FINITA</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:12:18.760+0200" stop="2026-07-15T07:15:39.080+0200" channel="ITALIANISSIMA">
+		<title lang="ita">TOTO CUTUGNO</title>
+		<desc lang="ita">TOTO CUTUGNO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">200</lenght>
+		<episode-num system="episode">LASCIATEMI CANTARE</episode-num>
+		<episode-num system="assetID">TOTOCUTUGNO-LASCIATEMICANTARE</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:15:39.080+0200" stop="2026-07-15T07:16:30.560+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:16:30.560+0200" stop="2026-07-15T07:20:30.480+0200" channel="ITALIANISSIMA">
+		<title lang="ita">TOMMASO PARADISO</title>
+		<desc lang="ita">TOMMASO PARADISO</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">239</lenght>
+		<episode-num system="episode">I ROMANTICI</episode-num>
+		<episode-num system="assetID">TOMMASOPARADISO-IROMANTICI</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:20:30.480+0200" stop="2026-07-15T07:25:23.760+0200" channel="ITALIANISSIMA">
+		<title lang="ita">LUCIO CORSI</title>
+		<desc lang="ita">LUCIO CORSI</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">Generale</category>
+		<lenght units="seconds">293</lenght>
+		<episode-num system="episode">VOLEVO ESSERE UN DURO</episode-num>
+		<episode-num system="assetID">LUCIOCORSI-VOLEVOESSEREUNDURO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Programme</value>
+		</rating>
+		<category_sys_id>0</category_sys_id>
+	</programme>
+	<programme start="2026-07-15T07:25:23.760+0200" stop="2026-07-15T07:26:15.240+0200" channel="ITALIANISSIMA">
+		<title lang="ita">ADNPLAY</title>
+		<desc lang="ita">ADNPLAY</desc>
+		<icon src="https://www.mainlevel.it/icons/default.jpg" width="1920" height="1080" />
+		<category lang="ita">PROMO</category>
+		<lenght units="seconds">51</lenght>
+		<episode-num system="episode">PROMO</episode-num>
+		<episode-num system="assetID">ADNPLAYPROMO</episode-num>
+		<rating system="ITA Parental Rating">
+			<value>Commercial</value>
+		</rating>
+		<category_sys_id>1</category_sys_id>
+	</programme>
+</tv>

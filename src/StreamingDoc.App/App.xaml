@@ -1,0 +1,16 @@
+﻿<Application x:Class="StreamingDoc.App.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:StreamingDoc.App"
+             xmlns:loc="clr-namespace:StreamingDoc.App.Localization"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Themes/Dark.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <!-- Sorgente di binding per le stringhe localizzate (singleton). -->
+            <x:Static x:Key="Loc" Member="loc:LocProvider.Instance"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

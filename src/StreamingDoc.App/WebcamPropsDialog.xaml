@@ -1,0 +1,29 @@
+<Window x:Class="StreamingDoc.App.WebcamPropsDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{Binding [CaptureProps], Source={StaticResource Loc}}" Height="200" Width="480"
+        Icon="NexusStreamer.ico" WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize" Background="{StaticResource B.Window}">
+    <Grid Margin="18">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <CheckBox x:Name="CustomAudio" Grid.Row="0" Content="{Binding [UseCustomAudio], Source={StaticResource Loc}}"
+                  HorizontalAlignment="Center" Margin="0,2,0,14" Click="OnToggle"/>
+
+        <DockPanel Grid.Row="1">
+            <TextBlock Text="{Binding [AudioDevice], Source={StaticResource Loc}}" DockPanel.Dock="Left" VerticalAlignment="Center"
+                       Margin="0,0,12,0" Foreground="{StaticResource B.Text}"/>
+            <ComboBox x:Name="AudioCombo" IsEnabled="False"/>
+        </DockPanel>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="{Binding [Cancel], Source={StaticResource Loc}}" Width="100" Click="OnCancel"/>
+            <Button Content="{Binding [OK], Source={StaticResource Loc}}" Width="100" Style="{StaticResource AccentButton}" Click="OnOk" IsDefault="True"/>
+        </StackPanel>
+    </Grid>
+</Window>
